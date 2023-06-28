@@ -1,0 +1,6 @@
+###### CODEOWNERS
+# This file will contain all users that will be notified of new PRs.
+# Reference: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-code-owners#codeowners-syntax
+
+
+* @Demo-terraform-template/test-1
